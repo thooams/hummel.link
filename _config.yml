@@ -1,0 +1,26 @@
+---
+title: Thomas HUMMEL
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  sites:
+    title: Sites
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
