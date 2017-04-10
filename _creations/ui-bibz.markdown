@@ -5,6 +5,17 @@ tags:
 - Ui Bibz
 - Ruby on Rails
 position: 1
+Sections:
+- title: Ui
+  subtitle: Core Framework
+  description: Alerts, inputs, breadcrumbs, cards, cols, buttons, dropdowns and +30
+    components are available right now.
+- title: Ux
+  subtitle: Extension for Users
+  description: Ux interface with complex components created by developers for developers
+- title: And after
+  subtitle: Futurs developments
+  description: Library Open Source ready to be forked.
 ---
 
 ### Library Ui Bibz is based on one component.
